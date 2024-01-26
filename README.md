@@ -9,5 +9,5 @@ This project involves the analysis of sales data from a superstore using Microso
     Customer Segmentation: Segmenting customers to understand their buying behavior and preferences.
     Geographical Analysis: Exploring regional variations in sales and identifying potential growth opportunities.
 3. Dashboard Creation:
-    Insightful and creative dashboards are made using the graphical representations of the data which depicts the trends and sales of the data.
+    Insightful and creative dashboards are created using the graphical representations of the data which depicts the trends and sales of the data.
    
